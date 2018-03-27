@@ -1,0 +1,43 @@
+{
+ "name": "flare",
+ "children": [
+
+
+
+{   "name": " 山东 ","size": 1608 },
+{   "name": " 福建 ","size": 1348 },
+{   "name": " 河南 ","size": 994 },
+{   "name": " 河北 ","size": 490 },
+{   "name": " 重庆 ","size": 1161 },
+{   "name": " 湖北 ","size": 4686 },
+{   "name": " 湖南 ","size": 1718 },
+{   "name": " 海南 ","size": 145 },
+{   "name": " 江西 ","size": 370 },
+{   "name": " 黑龙江 ","size": 471 },
+{   "name": " 天津 ","size": 1273 },
+{   "name": " 陕西 ","size": 2737 },
+{   "name": " 贵州 ","size": 275 },
+{   "name": " 新疆 ","size": 279 },
+{   "name": " 江苏 ","size": 7829 },
+{   "name": " 安徽 ","size": 1359 },
+{   "name": " 西藏 ","size": 4 },
+{   "name": " 上海 ","size": 16973 },
+{   "name": " 吉林 ","size": 365 },
+{   "name": " 甘肃 ","size": 159 },
+{   "name": " 山西 ","size": 151 },
+{   "name": " 宁夏 ","size": 74 },
+{   "name": " 四川 ","size": 3970 },
+{   "name": " 浙江 ","size": 5920 },
+{   "name": " 广西 ","size": 242 },
+{   "name": " 云南 ","size": 752 },
+{   "name": " 内蒙古 ","size": 81 },
+{   "name": " null ","size": 1217 },
+{   "name": " 辽宁 ","size": 2314 },
+{   "name": " 广东 ","size": 23298 },
+{   "name": " 青海 ","size": 90 },
+{   "name": " 北京 ","size": 11038 }
+
+
+
+ ]
+}
